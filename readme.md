@@ -40,11 +40,5 @@ Input: `6`
 Output:  
 Steps: 6 × 5 × 4 × 3 × 2 × 1
 Factorial of 6 (Reduce): 720
-## 📜 License
-This project is open-source under the **MIT License**.  
-You’re free to use, modify, and distribute it with proper attribution.
-
-MIT License
 
 Copyright (c) 2025 [MD Farhan Alam]
-
